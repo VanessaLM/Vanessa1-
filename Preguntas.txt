@@ -1,0 +1,13 @@
+1-What’s difference between Portable (CPL) and Shared (SAP) projects?
+R= SAP: Shared Aplication Project creates another project that is called to call natively
+   CPL: Portable Class Librery  this creates a library that is .ll and only creates a small file
+
+2-What are the requirements to configure Xamarin Mac Agent?
+R=  we have to have an Apple team that has installed Visual Studio and xcode to be able to run applications developed for Mac
+
+3-How many projects you have and why you need all? 
+R=You have 4 projects and you need them to run on your native system and which are:
+• El portable
+• Android
+• iOs
+• UWP(Universal Windows Phone)
